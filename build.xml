@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- Arquivo Phing de Ari Jr. -->
+
+<project name="mongodb" default="main">
+	<target name="main" />
+</project>
