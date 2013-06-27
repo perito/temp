@@ -5,6 +5,8 @@ $conexao = new Mongo();
 //Se a base não existir, ela é criada - portanto certifique-se do nome da base
 $db = $conexao->selectDB('teste');
 
+//Fazendo ajustes para mudar o conteudo do arquivo
+
 $clientes = array(
 'nome'		=> "Ari Stopassola Junior",
 'endereco'	=> "Dona Carlinda, 933",
